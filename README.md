@@ -35,13 +35,18 @@ Branch - A feature on the version control systems that keeps a record of the cha
 Merge - Merge is used to join together independent lines created by git branch to make the one branch. We simply use $ git merge
 Merge Conflict - "Merge conflicts happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge." About Merge Conflicts - GitHub Help
 Fetch - Git fetch is a command on git that is used to download changes from the remote folder to the local folder in order to match the changes in both repositories. $ git fetch .
+  
 Remote - The repository stored on the hosting service that is used by team members to exchange their changes.
+  
   
   
 References
 
 https://git.github.io/htmldocs/git.html
+
 https://git-scm.com/docs.
+
 Silva, Jonathan. “Learning Git: What Is a Git Repository?” Dev Blog by Axosoft, Dev Blog by Axosoft, 10 Apr. 2018, https://blog.axosoft.com/learning-git-repository/.
+
 Atlassian. “Git Push: Atlassian Git Tutorial.” Atlassian, https://www.atlassian.com/git/tutorials/syncing/git-push.
 “About Merge Conflicts.” About Merge Conflicts - GitHub Help, https://help.github.com/en/articles/about-merge-conflicts.

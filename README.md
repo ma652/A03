@@ -1,6 +1,7 @@
 # A03
 
-Git is a distributed version-control system that is designed to help keep track of a developer's computer programs, files and also any changes made in the files over time. Git helps a programmer collaborate with his or her peers when working on a coding project. For example, when developing an application or a website, different developers may decide to work together on the same project but each one of them working on their own module. On the other hand, Git works hand in hand with github, Github is a website for hosting developer’s programs and projects using the Git server system. 
+Git is a distributed version-control system that is designed to help keep track of a developer's computer programs, 
+files and also any changes made in the files over time. Git helps a programmer collaborate with his or her peers when working on a coding project. For example, when developing an application or a website, different developers may decide to work together on the same project but each one of them working on their own module. On the other hand, Git works hand in hand with github, Github is a website for hosting developer’s programs and projects using the Git server system. 
 
 Here are the steps to follow in order to use git and github;
 
@@ -10,7 +11,8 @@ Step 3 - Select the appropriate OS of your computer (Windows, Mac OS, etc.) and 
 Step 4 - Run the program to install.  
 Step 5 - Open github website with the link: https://github.com/join and create an account with github in order to use git and github. 
 Step 6 - On signing up and opening an account, you will need to create a repository on the github website in your account. 
-Step 7 - After creating your repository and want to start controlling your local project with git, you will be required to initialize your local repository with the one that already exists on github. 
+Step 7 - After creating your repository and want to start controlling your local project with git, you will be required to initialize 
+your local repository with the one that already exists on github. 
 
 Here are some commands you will run on git in order to achieve this with pc -
   $ cd /c / user / your_project then hit enter
